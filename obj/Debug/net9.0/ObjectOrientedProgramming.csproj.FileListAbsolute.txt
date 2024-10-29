@@ -1,0 +1,14 @@
+C:\Users\david\Documents\Java Basic\OOP\ObjectOrientedProgramming\bin\Debug\net9.0\ObjectOrientedProgramming.exe
+C:\Users\david\Documents\Java Basic\OOP\ObjectOrientedProgramming\bin\Debug\net9.0\ObjectOrientedProgramming.deps.json
+C:\Users\david\Documents\Java Basic\OOP\ObjectOrientedProgramming\bin\Debug\net9.0\ObjectOrientedProgramming.runtimeconfig.json
+C:\Users\david\Documents\Java Basic\OOP\ObjectOrientedProgramming\bin\Debug\net9.0\ObjectOrientedProgramming.dll
+C:\Users\david\Documents\Java Basic\OOP\ObjectOrientedProgramming\bin\Debug\net9.0\ObjectOrientedProgramming.pdb
+C:\Users\david\Documents\Java Basic\OOP\ObjectOrientedProgramming\obj\Debug\net9.0\ObjectOrientedProgramming.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\david\Documents\Java Basic\OOP\ObjectOrientedProgramming\obj\Debug\net9.0\ObjectOrientedProgramming.AssemblyInfoInputs.cache
+C:\Users\david\Documents\Java Basic\OOP\ObjectOrientedProgramming\obj\Debug\net9.0\ObjectOrientedProgramming.AssemblyInfo.cs
+C:\Users\david\Documents\Java Basic\OOP\ObjectOrientedProgramming\obj\Debug\net9.0\ObjectOrientedProgramming.csproj.CoreCompileInputs.cache
+C:\Users\david\Documents\Java Basic\OOP\ObjectOrientedProgramming\obj\Debug\net9.0\ObjectOrientedProgramming.dll
+C:\Users\david\Documents\Java Basic\OOP\ObjectOrientedProgramming\obj\Debug\net9.0\refint\ObjectOrientedProgramming.dll
+C:\Users\david\Documents\Java Basic\OOP\ObjectOrientedProgramming\obj\Debug\net9.0\ObjectOrientedProgramming.pdb
+C:\Users\david\Documents\Java Basic\OOP\ObjectOrientedProgramming\obj\Debug\net9.0\ObjectOrientedProgramming.genruntimeconfig.cache
+C:\Users\david\Documents\Java Basic\OOP\ObjectOrientedProgramming\obj\Debug\net9.0\ref\ObjectOrientedProgramming.dll
