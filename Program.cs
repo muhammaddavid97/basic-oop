@@ -21,5 +21,6 @@
 //MethodOverride.main();
 //SealedKeyword.main();
 //AbstractBasic.main();
-MainPolymorphism.main();
+//MainPolymorphism.main();
 //PolymorphismBasic.main();
+InterfaceBasic.main();

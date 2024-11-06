@@ -12,3 +12,4 @@ C:\Users\david\Documents\Java Basic\OOP\ObjectOrientedProgramming\obj\Debug\net9
 C:\Users\david\Documents\Java Basic\OOP\ObjectOrientedProgramming\obj\Debug\net9.0\ObjectOrientedProgramming.pdb
 C:\Users\david\Documents\Java Basic\OOP\ObjectOrientedProgramming\obj\Debug\net9.0\ObjectOrientedProgramming.genruntimeconfig.cache
 C:\Users\david\Documents\Java Basic\OOP\ObjectOrientedProgramming\obj\Debug\net9.0\ref\ObjectOrientedProgramming.dll
+C:\Users\david\Documents\Java Basic\OOP\ObjectOrientedProgramming\obj\Debug\net9.0\ObjectOrientedProgramming.sourcelink.json
