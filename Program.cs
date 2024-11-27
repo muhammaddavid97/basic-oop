@@ -1,4 +1,6 @@
-﻿//ClassBasic.main();
+﻿using ObjectOrientedProgramming.Interface;
+
+//ClassBasic.main();
 //MainLatihan.main();
 //Method.main();
 //Constructor.main();
@@ -23,4 +25,8 @@
 //AbstractBasic.main();
 //MainPolymorphism.main();
 //PolymorphismBasic.main();
-InterfaceBasic.main();
+//InterfaceBasic.main();
+
+//PropertyInterface.main();
+//ImplementationInterface.main();
+InheritanceInterface.main();
